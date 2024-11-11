@@ -17,9 +17,9 @@ class Config(object):
     OWNER_ID = int(getenv("OWNER_ID", 7526369190))
     OWNER_USERNAME = getenv("OWNER_USERNAME", "queen143np")
     SUPPORT_CHAT = getenv("SUPPORT_CHAT", "waifexanime")
-    LOGGER_ID = int(getenv("LOGGER_ID", "-1002014167331"))
+    LOGGER_ID = int(getenv("LOGGER_ID", "-1002494871325"))
     MONGO_URI = getenv("MONGO_DB_URI")
-    DB_NAME = getenv("DB_NAME", "AvaRobot")
+    DB_NAME = getenv("DB_NAME", "Hinatarobot_bot")
     REDIS_URL = "redis://default:wK6ZCiclq4iQKYpgfY90v6kd6WdPfEwl@redis-10186.c263.us-east-1-2.ec2.cloud.redislabs.com:10186/default"
     DATABASE_URL = getenv("DATABASE_URL", None)
 
