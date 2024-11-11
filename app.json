@@ -44,17 +44,17 @@
     "OWNER_ID": {
       "description": "ʏᴏᴜʀ ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
       "required": true,
-      "value": "7044783841"
+      "value": "7526369190"
     },
     "DEV_USERS": {
       "description": "ᴅᴇᴠs ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
       "required": true,
-      "value": "7044783841"
+      "value": "7526369190"
     },
     "OWNER_USERNAME": {
       "description": "ʏᴏᴜʀ ᴛɢ ᴜsᴇʀɴᴀᴍᴇ",
       "required": true,
-      "value": "JARVIS_V2"
+      "value": "queen143np"
     },
     "LOGGER_ID": {
       "description": "ᴇᴠᴇɴᴛ ʟᴏɢs ᴄʜᴀɴɴᴇʟ  ᴛᴏ ɴᴏᴛᴇ ᴅᴏᴡɴ ɪᴍᴘᴏʀᴛᴀɴᴛ ʙᴏᴛ ʟᴇᴠᴇʟ ᴇᴠᴇɴᴛs, ᴇx: '-10023456'",
