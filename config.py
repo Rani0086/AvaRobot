@@ -14,9 +14,9 @@ class Config(object):
     ARQ_API_KEY = "TBPYLF-SIOYFX-JALTSV-QEAMXE-ARQ"
     SPAMWATCH_API = "t9HHtrsmy7faPQWloX8xCvdZK~puDP2RnHLpb~qijQqDj94mhcMQdDP_xO0a_Iwe"
     TOKEN = getenv("TOKEN")
-    OWNER_ID = int(getenv("OWNER_ID", 5938660179))
-    OWNER_USERNAME = getenv("OWNER_USERNAME", "JARVIS_V2")
-    SUPPORT_CHAT = getenv("SUPPORT_CHAT", "Dora_Hub")
+    OWNER_ID = int(getenv("OWNER_ID", 7526369190))
+    OWNER_USERNAME = getenv("OWNER_USERNAME", "queen143np")
+    SUPPORT_CHAT = getenv("SUPPORT_CHAT", "waifexanime")
     LOGGER_ID = int(getenv("LOGGER_ID", "-1002014167331"))
     MONGO_URI = getenv("MONGO_DB_URI")
     DB_NAME = getenv("DB_NAME", "AvaRobot")
