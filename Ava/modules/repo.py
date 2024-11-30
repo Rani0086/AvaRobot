@@ -10,13 +10,13 @@ from Ava import Jarvis as pbot
 REPOIMG = "https://telegra.ph/file/94a4d5d7f7b2892e3bdbe.jpg"
 
 
-@pbot.on_cmd("repo")
+@pbot.on_cmd("bklmc")
 async def repo(_, message):
     await message.reply_photo(
         photo=REPOIMG,
         caption=f"""✨ **ʜᴇʏ {message.from_user.mention},**
 
-**ᴏᴡɴᴇʀ  : [ᴏᴡɴᴇʀ](https://t.me/JARVIS_V2)**
+**ᴏᴡɴᴇʀ  : [ᴏᴡɴᴇʀ](https://t.me/queen 143np)**
 **ᴘʏᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ :** `{y()}`
 **ʟɪʙʀᴀʀʏ ᴠᴇʀꜱɪᴏɴ :** `{o}`
 **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ :** `{s}`
@@ -29,7 +29,7 @@ async def repo(_, message):
                         "•ᴍᴜꜱɪᴄ•", url="https://github.com/doraemon890/ANNIE-X-MUSIC"
                     ),
                     InlineKeyboardButton(
-                        "•ʀᴏʙᴏ•", url="https://github.com/doraemon890/AvaRobot"
+                        "•ʀᴏʙᴏ•", url="https://t.me/BLOOD_MANSION"
                     ),
                 ]
             ]
